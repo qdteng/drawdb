@@ -1,6 +1,6 @@
 
 # DRAWIO的改造
-
+![drawdb](https://github.com/qdteng/drawdb/blob/master/1.gif) 
 ### 修改不显示弹出框： 
 
 App.js 3230  App.prototype.showSplash
