@@ -1,0 +1,13 @@
+{
+    "name": "bwk",
+  	"short_name": "bwk",
+    "description": "bwk",
+    "icons": [
+
+
+    ],
+    "theme_color": "#DF6C0C",
+    "background_color": "#DF6C0C",
+    "display": "fullscreen",
+    "start_url": "/index.html?offline=1"
+}
